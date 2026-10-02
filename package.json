@@ -1,0 +1,1 @@
+{"name": "sanity-n8n-validator", "private": true, "dependencies": {"sanity": "^3.0.0"}}
